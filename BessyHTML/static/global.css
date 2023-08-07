@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-lalezar: Lalezar;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-dimgray: #5b6068;
+  --color-white: #fff;
+  --color-darkslategray: #404040;
+
+  /* border radiuses */
+  --br-8xs: 5px;
+}
